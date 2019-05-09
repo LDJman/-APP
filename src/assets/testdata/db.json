@@ -1,0 +1,48 @@
+{
+	"student":[
+		{
+			"name": "Liz",
+			"age": 20,
+			"class": "xinguan1163",
+			"number": 1
+		},
+		{
+			"name": "aiz",
+			"age": 22,
+			"class": "xinguan1163",
+			"number": 2
+		},
+		{
+			"name": "siz",
+			"age": 21,
+			"class": "xinguan1163",
+			"number": 3
+		},
+		{
+			"name": "qiz",
+			"age": 25,
+			"class": "xinguan1163",
+			"number": 5
+		},
+		{
+			"name": "sise",
+			"age": 16,
+			"class": "guangzhou",
+			"number": "20181030"
+		}
+	],
+	"teacher": [
+		{
+			"name": "qiz",
+			"age": 45,
+			"class": "xinguan1163",
+			"number": 5
+		},
+		{
+			"name": "sise",
+			"age": 16,
+			"class": "guangzhou",
+			"number": "20181030"
+		}
+	]
+}
